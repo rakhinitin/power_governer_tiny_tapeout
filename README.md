@@ -179,8 +179,6 @@ power_governer_tiny_tapeout/
 
 - **Shreyas C N** — [GitHub](https://github.com/ShreyasCN-19)
 - **Thejas Gowda KR** — [GitHub](https://github.com/thejasgowda-05)
-- **Varun K B** — [GitHub](https://github.com/VarunKB06)
-- **Rahul A R** — [GitHub](https://github.com/rahular2005)
 
 ## Authors
 - **Shreyas C N** — [GitHub](https://github.com/ShreyasCN-19)
