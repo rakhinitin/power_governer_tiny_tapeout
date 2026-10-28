@@ -187,7 +187,7 @@ power_governer_tiny_tapeout/
 - **Thejas Gowda K R** — [GitHub](https://github.com/thejasgowda-05)
 
 ## Guide
-- **Dr.Rakhi S
+- Dr.Rakhi S
 
 ## Institution 
 - **Atria Institute of Technology**
